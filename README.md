@@ -7,7 +7,7 @@ Delivery of the project challenge to build a URL shortener @Dio.
 
 ## FrontEnd
 
-![capa](./image/capa.png)
+![capa](./image/capa.jpeg)
 
 
 ## BackEnd
